@@ -29,7 +29,7 @@ const Connections: React.FC = () => {
           <div className="bg-white/50 rounded-xl p-4 border border-amber-100">
             <h4 className="text-xs font-bold text-amber-900 uppercase tracking-wider mb-2">Netlify Configuration Guide</h4>
             <p className="text-xs text-amber-800">
-              Go to: <strong>Site configuration > Environment variables</strong>
+              Go to: <strong>Site configuration Environment variables</strong>
             </p>
             <div className="mt-3 space-y-2">
               <div className="flex justify-between text-[11px] font-mono bg-amber-100/50 p-2 rounded">
